@@ -32,5 +32,6 @@ You may also see any lint errors in the console.
 ### Original Project
 
 This project was built following Matheus Benites' tutorial on Dio's bootcamp:
-https://github.com/benits/github-api-interface
-https://www.youtube.com/playlist?list=PLTv2Rbwcr_Cru7KIHcffE1Shg9X9Eix7a
+
+- https://github.com/benits/github-api-interface
+- https://www.youtube.com/playlist?list=PLTv2Rbwcr_Cru7KIHcffE1Shg9X9Eix7a
