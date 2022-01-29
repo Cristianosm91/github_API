@@ -1,0 +1,5 @@
+npm i axios
+
+npm install --save styled-components
+
+npm install --save react-tabs
